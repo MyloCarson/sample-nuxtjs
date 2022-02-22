@@ -1,6 +1,6 @@
 <template>
   <div>
-    <pre>{{ link }}</pre>
+    <pre>{{ link }} </pre>
   </div>
 </template>
 
